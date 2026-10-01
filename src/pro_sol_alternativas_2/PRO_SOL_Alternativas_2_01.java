@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package pro_sol_alternativas_2_01;
+package pro_sol_alternativas_2;
 
 import java.util.Scanner;
 
